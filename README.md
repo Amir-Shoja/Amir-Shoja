@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EBEC4&multiline=true&lines=Hi+there!++%F0%9F%91%8B;+I+am+glad+that+you+are+watching+my+github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EBEC4&multiline=true&width=430&height=56&lines=Hi+there!++%F0%9F%91%8B;+I'm+glad+that+you're+watching+my+github.)](https://git.io/typing-svg)
 <!--
 **Amir-Shoja/Amir-Shoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
